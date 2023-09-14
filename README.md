@@ -1,3 +1,3 @@
-# MoveIt-Website using Bootstrap,HTML.
+#Move It Website
 
 https://muntajir11.github.io/MoveIt-Website/
